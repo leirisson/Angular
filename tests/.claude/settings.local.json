@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"c:\\\\Users\\\\leiri\\\\Documents\\\\GitHub\\\\Angular\\\\tests\\\\4-caio\\\\index.html\")"
+    ]
+  }
+}
